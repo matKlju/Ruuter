@@ -16,7 +16,7 @@ and stops loading this DSL, continuing to next one.
 
 
 ```yaml
-declare:
+declaration:
   call: declare               # this value is hardcoded and necessary
   version: <version no>       # for documentation
   description: <endponint description>
